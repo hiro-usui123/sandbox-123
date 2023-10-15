@@ -9,3 +9,6 @@
 // </div>
 // `;
 
+var val1 = "val変数"
+val = "上書き"
+var val1 = "再定義"
